@@ -1,0 +1,4 @@
+
+# Credentials
+apiKey = ""
+apiSecurity = ""
